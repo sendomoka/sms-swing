@@ -18,6 +18,11 @@ Music Player like Spotify but Lite Desktop App.
 - Java OOP
 - Java Swing
 
+## Step
+1. Clone repo to Netbeans
+2. Upload file sql to import Phpmyadmin
+3. Upload file jar to Libraries project folder
+
 ## Documentation
 ![image](https://github.com/jehianth/spotilite-swing/assets/55863992/dcab3d0d-09f0-4a8a-bed3-18029ffdaa4c)
 ![image](https://github.com/jehianth/spotilite-swing/assets/55863992/9efe53b6-bacd-40a4-987d-a0a7ccbfa310)
