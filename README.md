@@ -27,3 +27,5 @@ Music Player like Spotify but Lite Desktop App.
 - <a href="https://github.com/bagusws17">Bagus Wijoyoseno H1D022030</a>
 - <a href="https://github.com/KangJ0n0">Afiftha Ravi H1D022095</a>
 - <a href="https://github.com/">Rifana H1D022014</a>
+
+Docs: https://docs.google.com/document/d/1ymemgMtbvfScIaVvytbSPETuieNcq0SfDALEWkWZjmc/edit?usp=sharing
