@@ -27,7 +27,8 @@ https://downloadersystem.wordpress.com/windows/programming/netbeans-ide-8-2-down
 
 ## Documentation
 ![image](https://github.com/jehianth/spotilite-swing/assets/55863992/dcab3d0d-09f0-4a8a-bed3-18029ffdaa4c)
-![image](https://github.com/jehianth/spotilite-swing/assets/55863992/9efe53b6-bacd-40a4-987d-a0a7ccbfa310)
+![Screenshot (8)](https://github.com/jehianth/spotilite-swing/assets/55863992/9580bbd6-916f-4414-a233-25463766fde4)
+
 
 ## Contributors
 - <a href="https://github.com/jehianth">Jehian Athaya H1D022006</a>
