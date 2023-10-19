@@ -17,6 +17,7 @@ Music Player like Spotify but Lite Desktop App.
 - Netbeans IDE 8.2 
 - Java 8u202 or 8u221
 - Java OOP Swing
+
 https://downloadersystem.wordpress.com/windows/programming/netbeans-ide-8-2-download/
 
 ## Step
